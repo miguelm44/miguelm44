@@ -4,6 +4,8 @@ Olá, me nome é Miguel Ambrosio sou um desenvolvedor Full-Stack junior apaixona
 ## Tecnologias
 
 ![HTML5](https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png)
+![CSS3](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png)
+![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png)
 
 
     E-mail: [seu endereço de e-mail]
