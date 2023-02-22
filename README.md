@@ -1,6 +1,7 @@
-<h1 align="center"> Perfil </h1>
 
-Olá, me nome é Miguel Ambrosio sou um desenvolvedor Full-Stack junior apaixonado por tecnologia e sempre buscando aprender mais. dades.
+# Sobre mim
+Olá, meu nome é Miguel Ambrosio Martins, sou um desenvolvedor Full-Stack junior apaixonado por tecnologia e suas particularidades.
+ Sempre  gostei de aprender  e compartilhar conhecimento com outras pessoas. Sou dedicado, pró-ativo e estou diariamente em busca de novas soluções para os desafios que surgem no desenvolvimento de web. Meu objetivo é crescer como desenvolvedor e contribuir para projetos que façam a diferença na vida das pessoas.
 ## Tecnologias
 
 <div style="display: inline_block"><br>
