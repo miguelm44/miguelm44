@@ -6,8 +6,9 @@ Olá, me nome é Miguel Ambrosio sou um desenvolvedor Full-Stack junior apaixona
 ![HTML5](https://cdn.iconscout.com/icon/free/png-256/html5-40-1175193.png)[width=20px height=10px]
 ![CSS3](https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png)
 ![JavaScript](https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png)
-
-![Image Name](Image URL){width=200px height=100px}
-
-    E-mail: [seu endereço de e-mail]
-    LinkedIn: [seu perfil no LinkedIn]
+![React](https://cdn.iconscout.com/icon/free/png-256/react-1-282599.png)
+![Angular](https://cdn.iconscout.com/icon/free/png-256/angular-3628865-3030245.png)
+![Vue.js](https://cdn.iconscout.com/icon/free/png-256/vue-282497.png)
+![Node.js](https://cdn.iconscout.com/icon/free/png-256/node-js-2-1174936.png)
+![Express](https://cdn.iconscout.com/icon/free/png-256/express-3-1175053.png)
+![Python](https://cdn.iconscout.com/icon/free/png-256/python-20-1175115.png)
